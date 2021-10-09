@@ -14,6 +14,13 @@ I am Priyanka from India who works as an application administrator/consultant. I
 - Shell (Bash, CSH, KSH)
 - HTML
 - CSS3
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Python3](https://img.shields.io/badge/-Python3-000?&logo=Py3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Interests
 All computer science topics
