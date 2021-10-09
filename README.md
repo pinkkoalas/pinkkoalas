@@ -18,10 +18,10 @@ I am Priyanka from India who works as an application administrator/consultant. I
 - CSS3
 
 ### Interests
-- All computer science topics
-- - Cloud and cloud computing
---- Google cloud digital badges (Kubernetes, GCP essentials, Cloud engineer)
---- Certified cloud integration expert (SAP)
+All computer science topics
+- Cloud and cloud computing
+-- Google cloud digital badges (Kubernetes, GCP essentials, Cloud engineer)
+-- Certified cloud integration expert (SAP)
 -- Automation
 --- Certified Google IT Automation professional
 --- Automation anywhere certified
