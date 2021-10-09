@@ -5,7 +5,7 @@ I am Priyanka from India who works as an application administrator/consultant. I
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkkoalas)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages
+### Languages
 - C
 - C++
 - Java
@@ -16,6 +16,23 @@ I am Priyanka from India who works as an application administrator/consultant. I
 -- KSH
 - HTML
 - CSS3
+
+### Interests
+- All computer science topics
+-- Cloud and cloud computing
+--- Google cloud digital badges (Kubernetes, GCP essentials, Cloud engineer)
+--- Certified cloud integration expert (SAP)
+-- Automation
+--- Certified Google IT Automation professional
+--- Automation anywhere certified
+-- Algorithms
+-- Systems and Databases
+--- Installations
+--- Certified DBA (SAP HANA)
+-- Cybersecurity
+-- UI/UX
+--- HCI
+--- Certified UI/UX admin (SAP Fiori)
 
 ### Hobbies
 When I am not working or coding, I love working on digital media, art, and learning new cultures. You can check me out on linkedin.com/priyankarajupatil and instagram - yeahicandoodle.
