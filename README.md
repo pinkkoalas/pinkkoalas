@@ -10,29 +10,26 @@ I am Priyanka from India who works as an application administrator/consultant. I
 - C++
 - Java
 - Python3
-- Shell
---Bash
---CSH
---KSH
+- Shell (Bash, CSH, KSH)
 - HTML
 - CSS3
 
 ### Interests
 All computer science topics
-- Cloud and cloud computing
--- Google cloud digital badges (Kubernetes, GCP essentials, Cloud engineer)
--- Certified cloud integration expert (SAP)
--- Automation
---- Certified Google IT Automation professional
---- Automation anywhere certified
--- Algorithms
--- Systems and Databases
---- Installations
---- Certified DBA (SAP HANA)
--- Cybersecurity
--- UI/UX
---- HCI
---- Certified UI/UX admin (SAP Fiori)
+1. Cloud and cloud computing
+i. Google cloud digital badges (Kubernetes, GCP essentials, Cloud engineer)
+i. Certified cloud integration expert (SAP)
+1. Automation
+i. Certified Google IT Automation professional
+i. Automation anywhere certified
+1. Algorithms
+1. Systems and Databases
+i. Installations
+i. Certified DBA (SAP HANA)
+1. Cybersecurity
+1. UI/UX
+i. HCI
+i. Certified UI/UX admin (SAP Fiori)
 
 ### Hobbies
 When I am not working or coding, I love working on digital media, art, and learning new cultures. You can check me out on linkedin.com/priyankarajupatil and instagram - yeahicandoodle.
