@@ -14,13 +14,6 @@ I am Priyanka from India who works as an application administrator/consultant. I
 - Shell (Bash, CSH, KSH)
 - HTML
 - CSS3
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python3](https://img.shields.io/badge/-Python3-000?&logo=Py3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Interests
 All computer science topics
@@ -32,7 +25,7 @@ All computer science topics
 1. Operating systems, Systems and Databases ([Google's Python to interact with OS](https://www.coursera.org/account/accomplishments/certificate/39XGUR96336C), [HANA DBA](https://www.credly.com/badges/9a550a27-6334-4787-ae5a-05f37e79c143?source=linked_in_profile))
 
 ### Hobbies
-When I am not working or coding, I love working on digital media, art, and learning ne1. Cybersecurityw cultures. You can check me out on linkedin.com/priyankarajupatil and 1nstagram - yeahicandoodle
+When I am not working or coding, I love working on digital media, art, and learning ne1. Cybersecurityw cultures. You can check me out on linkedin.com/priyankarajupatil and Instagram - [@yeahicandoodle](instagram.com/yeahicandoodle.com)
 
 <!--
 **pinkkoalas/pinkkoalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
