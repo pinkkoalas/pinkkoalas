@@ -21,7 +21,7 @@ All computer science topics
 1. UI/UX
 1. Cybersecurity
 1. Algorithms
-1. Systems and Databases (System admin, [HANA DBA](https://www.credly.com/badges/9a550a27-6334-4787-ae5a-05f37e79c143?source=linked_in_profile))
+1. Operating systems, Systems and Databases ([Google's Python to interact with OS](https://www.coursera.org/account/accomplishments/certificate/39XGUR96336C), [HANA DBA](https://www.credly.com/badges/9a550a27-6334-4787-ae5a-05f37e79c143?source=linked_in_profile))
 
 ### Hobbies
 When I am not working or coding, I love working on digital media, art, and learning ne1. Cybersecurityw cultures. You can check me out on linkedin.com/priyankarajupatil and 1nstagram - yeahicandoodle
