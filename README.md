@@ -5,6 +5,17 @@ I am Priyanka from India who works as an application administrator/consultant. I
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkkoalas)](https://github.com/anuraghazra/github-readme-stats)
 
+## Languages
+- C
+- C++
+- Java
+- Python3
+- Shell
+-- Bash
+-- CSH
+-- KSH
+- HTML
+- CSS3
 
 ### Hobbies
 When I am not working or coding, I love working on digital media, art, and learning new cultures. You can check me out on linkedin.com/priyankarajupatil and instagram - yeahicandoodle.
