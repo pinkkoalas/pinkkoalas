@@ -1,7 +1,10 @@
 ## About Me
 ### Hi there 👋
 
-I am Priyanka from India who works as an application administrator/consultant. I am a computer engineering graduate who loves learning technologies and programming in my free time. I am excited to learn, connect, and contribute wherever I can. When I am not working or coding, I love working on digital media, art, and learning new cultures.
+I am Priyanka from India who works as an application administrator/consultant. I am a computer engineering graduate who loves learning technologies and programming in my free time. I am excited to learn, connect, and contribute wherever I can. 
+
+### Hobbies
+When I am not working or coding, I love working on digital media, art, and learning new cultures. You can check me out on linkedin.com/priyankarajupatil and instagram - yeahicandoodle.
 
 <!--
 **pinkkoalas/pinkkoalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
