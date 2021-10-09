@@ -17,7 +17,7 @@ I am Priyanka from India who works as an application administrator/consultant. I
 ### Interests
 All computer science topics
 1. Cloud and cloud computing ([Google Digital Skill Badges](https://google.qwiklabs.com/public_profiles/87e6d986-feea-4574-8c0b-537c7b77b8bf))
-1. Automation (![Google IT Automation Professional](https://www.credly.com/badges/e3ed6031-d8cf-402a-a3a6-0470c0079fc9?source=linked_in_profile))
+1. Automation ([Google IT Automation Professional](https://www.credly.com/badges/e3ed6031-d8cf-402a-a3a6-0470c0079fc9?source=linked_in_profile))
 1. UI/UX
 1. Cybersecurity
 1. Algorithms
