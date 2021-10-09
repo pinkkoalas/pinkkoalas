@@ -11,9 +11,9 @@ I am Priyanka from India who works as an application administrator/consultant. I
 - Java
 - Python3
 - Shell
--- Bash
--- CSH
--- KSH
+--Bash
+--CSH
+--KSH
 - HTML
 - CSS3
 
