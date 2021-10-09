@@ -3,6 +3,9 @@
 
 I am Priyanka from India who works as an application administrator/consultant. I am a computer engineering graduate who loves learning technologies and programming in my free time. I am excited to learn, connect, and contribute wherever I can. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkkoalas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hobbies
 When I am not working or coding, I love working on digital media, art, and learning new cultures. You can check me out on linkedin.com/priyankarajupatil and instagram - yeahicandoodle.
 
