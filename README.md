@@ -6,7 +6,7 @@ I am Priyanka from India and I work as an application administrator/consultant. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkkoalas&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Priyanka's github stats" /></a> 
 
-### Languages
+#### Languages
 - Python3
 - C & C++
 - Java
@@ -14,7 +14,7 @@ I am Priyanka from India and I work as an application administrator/consultant. 
 - Shell (Bash, CSH, KSH)
 - HTML & CSS3
 
-### Interests
+#### Interests
 All computer science topics
 1. Cloud and cloud computing ([Google Digital Skill Badges](https://google.qwiklabs.com/public_profiles/87e6d986-feea-4574-8c0b-537c7b77b8bf))
 1. Automation ([Google IT Automation Professional](https://www.credly.com/badges/e3ed6031-d8cf-402a-a3a6-0470c0079fc9?source=linked_in_profile))
