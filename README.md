@@ -1,8 +1,9 @@
-## About Me
+## About me
+![backdrop](https://user-images.githubusercontent.com/24491389/136679218-5687a30e-76c7-4e8b-9c8b-abbd0d9fa272.png)
 
-### Hi there 👋
+### Hi 👋
 
-I am Priyanka from India who works as an application administrator/consultant. I am a computer engineering graduate who loves learning technologies and programming in my free time. I am excited to learn, connect, and contribute wherever I can. 
+I am Priyanka from India and I work as an application administrator/consultant. I am a computer engineering graduate who loves learning technologies and programming in my free time. I am excited to learn, connect, and contribute wherever I can. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkkoalas)](https://github.com/anuraghazra/github-readme-stats)
 
