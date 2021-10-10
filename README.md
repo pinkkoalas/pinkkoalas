@@ -4,17 +4,13 @@
 
 I am Priyanka from India and I work as an application administrator/consultant. I am a computer engineering graduate who loves learning and upskilling myself. I am excited to learn, connect, and contribute whenever I can.
 
-<!-- Need to edit later
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkkoalas&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Priyanka's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkkoalas&layout=compact&theme=graywhite&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkkoalas&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Priyanka's github stats" /></a> 
 
 ### Languages
 - Python3
 - C & C++
 - Java
+- C# and ASP.net
 - Shell (Bash, CSH, KSH)
 - HTML & CSS3
 
