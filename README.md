@@ -22,7 +22,7 @@ All computer science topics
 1. Algorithms
 1. Operating systems, Systems and Databases ([Google's Python to interact with OS](https://www.coursera.org/account/accomplishments/certificate/39XGUR96336C), [HANA DBA](https://www.credly.com/badges/9a550a27-6334-4787-ae5a-05f37e79c143?source=linked_in_profile))
 
-You can check me out on [LinkedIn](linkedin.com/priyankarajupatil)
+You can check me out on [LinkedIn](https://linkedin.com/profile/priyankarajupatil)
 
 <!--
 **pinkkoalas/pinkkoalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
