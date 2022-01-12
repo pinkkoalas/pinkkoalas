@@ -1,8 +1,7 @@
 ## Hi there!
 
 ![backdrop](https://user-images.githubusercontent.com/24491389/136679218-5687a30e-76c7-4e8b-9c8b-abbd0d9fa272.png)
-
-I am Priyanka from India and I work as an application administrator/consultant. I am a computer engineering graduate who loves learning and upskilling myself. I am excited to learn, connect, and contribute whenever I can.
+I am excited to learn, connect, and contribute whenever I can.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkkoalas&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Priyanka's github stats" /></a> 
 
